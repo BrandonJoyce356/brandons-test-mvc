@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMVCProject", "TestMVCProject\TestMVCProject.csproj", "{EA2266CC-ECBD-4B47-8D7A-D4EDE18117C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMVCProject.Tests", "TestMVCProject.Tests\TestMVCProject.Tests.csproj", "{A3CD8BE4-6D89-492A-99ED-0447A6844214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3CD8BE4-6D89-492A-99ED-0447A6844214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CD8BE4-6D89-492A-99ED-0447A6844214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CD8BE4-6D89-492A-99ED-0447A6844214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CD8BE4-6D89-492A-99ED-0447A6844214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2266CC-ECBD-4B47-8D7A-D4EDE18117C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2266CC-ECBD-4B47-8D7A-D4EDE18117C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2266CC-ECBD-4B47-8D7A-D4EDE18117C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2266CC-ECBD-4B47-8D7A-D4EDE18117C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
